@@ -123,3 +123,27 @@
 2024-09-10 19:07:37,457 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-09-10 19:07:37,461 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-09-10 19:07:37,464 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Downloads\learn-spring-framework (1)\learn-spring-framework\src\test\resources
+2024-09-10 19:09:11,386 [Worker-110: Launching App02HelloWorldSpring] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-10 19:09:11,394 [Worker-110: Launching App02HelloWorldSpring] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-10 19:09:11,396 [Worker-110: Launching App02HelloWorldSpring] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Downloads\learn-spring-framework (1)\learn-spring-framework\src\test\resources
+2024-09-10 19:09:24,121 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-10 19:09:24,126 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-10 19:09:24,129 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Downloads\learn-spring-framework (1)\learn-spring-framework\src\test\resources
+2024-09-10 19:29:59,996 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-10 19:30:00,011 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-10 19:30:00,018 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Downloads\learn-spring-framework (1)\learn-spring-framework\src\test\resources
+2024-09-10 19:32:48,001 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-10 19:32:48,056 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-10 19:32:48,058 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Downloads\learn-spring-framework (1)\learn-spring-framework\src\test\resources
+2024-09-10 19:36:12,435 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-10 19:36:12,454 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-10 19:36:12,458 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Downloads\learn-spring-framework (1)\learn-spring-framework\src\test\resources
+2024-09-10 21:10:04,434 [Worker-133: Launching App02HelloWorldSpring] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-10 21:10:04,508 [Worker-133: Launching App02HelloWorldSpring] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-10 21:10:04,513 [Worker-133: Launching App02HelloWorldSpring] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Downloads\learn-spring-framework (1)\learn-spring-framework\src\test\resources
+2024-09-10 21:19:18,792 [Worker-138: Launching App02HelloWorldSpring] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-10 21:19:18,867 [Worker-138: Launching App02HelloWorldSpring] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-10 21:19:18,870 [Worker-138: Launching App02HelloWorldSpring] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Downloads\learn-spring-framework (1)\learn-spring-framework\src\test\resources
+2024-09-10 21:21:33,395 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-10 21:21:33,461 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-10 21:21:33,464 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Downloads\learn-spring-framework (1)\learn-spring-framework\src\test\resources
